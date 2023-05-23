@@ -4,7 +4,7 @@
 //
 
 import java.io.PrintStream;
-//package efs.task.oop;
+package efs.task.oop;
 public class Villager implements Fighter {
     private String name;
     private int age;

@@ -3,7 +3,7 @@
 // (powered by FernFlower decompiler)
 //
 
-//package efs.task.oop;
+package efs.task.oop;
 
 public class ExtraordinaryVillager extends Villager {
     Skill skill;

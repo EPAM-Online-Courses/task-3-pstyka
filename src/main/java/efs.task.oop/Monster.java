@@ -2,7 +2,7 @@
 // Source code recreated from a .class file by IntelliJ IDEA
 // (powered by FernFlower decompiler)
 //
-//package efs.task.oop;
+package efs.task.oop;
 public abstract class Monster implements Fighter {
     protected int health;
     private int damage;
