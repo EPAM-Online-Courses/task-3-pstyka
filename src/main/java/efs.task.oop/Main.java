@@ -5,6 +5,8 @@
 package efs.task.oop;
 import java.util.ArrayList;
 public class Main {
+
+
     public static void main(String[] args) {
         ArrayList<Villager> villagers = new ArrayList();
         villagers.add(new Villager("Kashya", 30));

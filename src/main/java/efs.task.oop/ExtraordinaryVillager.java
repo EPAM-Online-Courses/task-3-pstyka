@@ -2,8 +2,8 @@
 // Source code recreated from a .class file by IntelliJ IDEA
 // (powered by FernFlower decompiler)
 //
-
 package efs.task.oop;
+
 
 public class ExtraordinaryVillager extends Villager {
     Skill skill;

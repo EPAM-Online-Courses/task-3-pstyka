@@ -2,9 +2,9 @@
 // Source code recreated from a .class file by IntelliJ IDEA
 // (powered by FernFlower decompiler)
 //
-
-import java.io.PrintStream;
 package efs.task.oop;
+import java.io.PrintStream;
+
 public class Villager implements Fighter {
     private String name;
     private int age;
